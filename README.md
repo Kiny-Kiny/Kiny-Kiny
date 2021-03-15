@@ -3,7 +3,7 @@
 # 🌀 KINY
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KinyBruno)](https://twitter.com/KinyBruno)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Kiny_Parziovanni)](https://t.me/Kiny_Parziovanni)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/K_iny)](https://t.me/K_iny)
 
 
 ## Olá! <img src="https://github.com/Kiny-Kiny/Kiny-Kiny/blob/main/tenor.gif" width="40px">
