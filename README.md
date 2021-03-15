@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Kiny_Parziovanni)](https://t.me/Kiny_Parziovanni)
 
 
-## Olá! <img src="https://tenor.com/view/diavolo-jojo-diavolo-jojos-bizarre-adventure-diavolo-golden-wind-diavolo-vento-aureo-gif-16058040" width="40px">
+## Olá! <img src="https://github.com/Kiny-Kiny/Kiny-Kiny/blob/main/tenor.gif" width="40px">
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
