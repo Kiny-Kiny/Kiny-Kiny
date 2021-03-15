@@ -19,7 +19,7 @@ Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programaçã
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nearshelby-yt&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiny-Kiny&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
 ---
