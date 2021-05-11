@@ -7,6 +7,7 @@
 
 [![Spotify](https://spotify-status-Kiny-Crimson.vercel.app/api/spotify)](https://open.spotify.com/user/iuepvhfa1jxmlmukwpmyr289g)
 
+[![Spotify][https://spotify-github-profile.vercel.app/api/view.svg?uid=iuepvhfa1jxmlmukwpmyr289g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=iuepvhfa1jxmlmukwpmyr289g&cover_image=true&theme=default)]]
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
