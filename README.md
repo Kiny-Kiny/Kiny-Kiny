@@ -6,7 +6,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/K_iny)](https://t.me/K_iny)
 
 
-## Olá! <img src="https://github.com/Kiny-Kiny/Kiny-Kiny/blob/main/tenor.gif" width="40px">
+[![github stats](https://github-readme-stats.vercel.app/api/?username=Kiny-Crimson&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Kiny-Kiny/)
+
+
+[![Spotify](https://spotify-status-Kiny-Crimson.vercel.app/api/spotify)](https://open.spotify.com/user/Kiny-Kiny)
+
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
