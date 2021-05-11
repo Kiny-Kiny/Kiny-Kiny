@@ -5,8 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KinyBruno)](https://twitter.com/KinyBruno)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/K_iny)](https://t.me/K_iny)
 
-
-[![github stats](https://github-readme-stats.vercel.app/api/?username=Kiny-Kiny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Kiny-Kiny/)
+[![Spotify](https://spotify-status-Kiny-Crimson.vercel.app/api/spotify)](https://open.spotify.com/user/tecip87ci9nmeju59vv6z15ex)
 
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
