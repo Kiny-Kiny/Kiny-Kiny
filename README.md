@@ -9,6 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/K_iny)](https://t.me/K_iny)
 
 - [ 🎶 ] Música favorita: Virtual Insanity
+- [ 💬 ] Discord: kine azul#6446
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
