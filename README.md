@@ -8,6 +8,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KinyBruno)](https://twitter.com/KinyBruno)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/K_iny)](https://t.me/K_iny)
 
+- [ 🎶 ] Música favorita: Virtual Insanity
+
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
 - Me acompanhe no youtube: [**Meu canal**](https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w)
