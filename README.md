@@ -13,6 +13,16 @@
 
 Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programação favorita é Python.
 
+<h3>💻 <em>Langs</em></h3>
+<blockquote>
+  <ul>
+    <li><em>Python</em></li>
+    <li><em>Ruby</em></li>
+    <li><em>Php</em></li>
+    <li><em>C#</em></li>
+  </ul>
+</blockquote>
+
 - Me acompanhe no youtube: [**Meu canal**](https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w)
 
 ---
