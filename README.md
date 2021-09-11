@@ -47,7 +47,7 @@ Meu nome é Kiny e amo JoJo's Bizarre Adventure, minha linguagem de programaçã
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/Kiny-Kiny/Kiny-Kiny/blob/main/tenor%20(1).gif" width="250px">
+  <img src="https://github.com/Kiny-Kiny/Kiny-Kiny/blob/main/ova-jojo.gif" width="250px">
 </p>
 </details>
 
