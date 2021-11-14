@@ -9,5 +9,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiny-Kiny&layout=compact&langs_count=999&theme=radical" alt="Langs" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Kiny-Kiny&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
 </p>
